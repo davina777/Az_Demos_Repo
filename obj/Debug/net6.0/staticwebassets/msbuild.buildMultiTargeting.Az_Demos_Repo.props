@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Az_Demos_Repo.props" />
+</Project>
